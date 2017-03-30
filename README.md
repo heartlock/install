@@ -1,2 +1,2 @@
 # install
-install docker hyperd
+install docker, hyperd, rkt
